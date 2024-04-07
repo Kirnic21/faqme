@@ -1,0 +1,12 @@
+.faq-stuff{
+    display: flex;
+    justify-content: center;
+    background-color: #f9f7f3;
+    flex-direction: column;
+    
+}
+.title{
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+}

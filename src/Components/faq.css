@@ -1,0 +1,37 @@
+@font-face{
+    font-family: "nut";
+    src: url()
+}
+ul{
+    list-style-type: none;
+}
+.faqyou{
+    display: flex;
+    flex-direction: column;
+    background-color: #c3a995;
+    border-radius: 0.5rem;
+    padding:20px;
+    gap:20px
+
+}
+.faqli{
+    display: flex;
+    flex-direction: column;
+    gap:2.0em
+}
+.faqList{
+display: flex;
+justify-content: center;
+}
+.question{
+    
+    overflow-wrap: break-word;
+ 
+    font-size: 20px;
+    font-family: "Roboto",sans-serif;
+    font-weight: bold;
+    
+}
+.answer{
+    font-family:"Roboto Condensed", sans-serif;
+}
