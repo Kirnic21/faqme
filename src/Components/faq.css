@@ -10,7 +10,7 @@ ul{
     flex-direction: column;
     background-color: #c3a995;
     border-radius: 0.5rem;
-    padding:20px;
+    padding:3rem;
     gap:20px
 
 }
@@ -22,6 +22,8 @@ ul{
 .faqList{
 display: flex;
 justify-content: center;
+width: 900px;
+    margin: 0 auto
 }
 .question{
     
