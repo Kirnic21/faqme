@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import FuckingFaq from "./Components/FuckingFaq";
   const App = () => {
     return (
-      <div>
+      <div className="app">
   
         <FuckingFaq></FuckingFaq>
       </div>
